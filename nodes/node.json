@@ -1,0 +1,8 @@
+{
+    "rtn_rbenv": {
+        "user": "ec2-user",
+        "versions": ["2.1.3"],
+        "gems": ["bundler"],
+        "global": "2.1.3"
+    }
+}
